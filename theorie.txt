@@ -1,0 +1,5 @@
+1) L'annotation @Override signifie que les méthodes données dans la class mère est redéfinit ou réécrit dans la class fille en cas d'heritage.
+
+2) On a souvent besoin de redéfinir equals et hashcode parce qu'on a besoin de l'égalité basée sur les valeurs et non sur les adresse mémoire.
+
+3) Le polymorphisme statique est le comportement dans la class qui est déterminé au moment de la compilation.
